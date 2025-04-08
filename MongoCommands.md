@@ -411,6 +411,7 @@ MongoDB utilities are command-line tools that provide various administrative and
 
 **4. `mongoimport` (Import):**
 
+* `mongoimport "C:\Users\Asus\Downloads\students.json" -d collegedb -c students --jsonArray --drop`
 * **Purpose:** Imports data from JSON or CSV files into a MongoDB collection.
 * **Example (Import from JSON):**
 
